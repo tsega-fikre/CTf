@@ -98,7 +98,7 @@ First flag found!
 
 ---
 
-## 8️⃣ Finding the Second Ingredient
+## 8️ Finding the Second Ingredient
 
 Check for other `.txt` files:
 
@@ -126,7 +126,7 @@ Second flag found!
 
 ---
 
-## 9️⃣ Checking User Privileges
+## 9️ Checking User Privileges
 
 Check sudo privileges:
 
@@ -139,7 +139,7 @@ sudo -l
 
 ---
 
-## 10️⃣ Accessing Root Files
+## 10️ Accessing Root Files
 
 Since `ls /root` requires root:
 
